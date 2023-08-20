@@ -1,0 +1,11 @@
+https://www.fakenamegenerator.com/advanced.php
+Gender Ratio 
+    Male: 50%
+    Female: 50%
+Age : 18 - 90 years old
+
+
+Disposable Temporary E-Mail Address
+https://www.guerrillamail.com/
+
+Add dummy data file "MOCK_DATA.csv"

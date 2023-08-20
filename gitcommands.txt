@@ -1,0 +1,12 @@
+it commit -m "installation complete"
+  18 git status
+  19 git add .
+  20 git commit -m "installation complete"
+  21 git push
+  22 git checkout main
+  23 gti pull
+  24 git pull
+  25 git checkout -b pythonbasics
+  26 git push
+  27 git push --set-upstream origin pythonbasics
+  
